@@ -4,7 +4,7 @@ body {
 }
 
 section {
-
+clear: both;
 }
 
 h1 {
@@ -16,9 +16,18 @@ h2 {
 }
 
 p {
+margin-right: 20px;
 
 }
 
-img {
+img.left {
+float: left;
+margin-right: 20px;
+margin-bottom: 20px;
+}
 
+img.right{
+float: right;
+margin-left: 20px;
+margin-bottom: 20px;
 }
