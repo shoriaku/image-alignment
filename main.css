@@ -35,4 +35,5 @@ margin-bottom: 20px;
 img.center{
  margin-left: auto; 
  margin-right: auto; 
+ display: block; 
 }
